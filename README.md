@@ -21,5 +21,5 @@ Computer Science undergraduate at IIIT Bhagalpur with strong interests in backen
 
 ## 🔗 Coding Profiles
 
-- LeetCode: https://leetcode.com/shivam.rw
+- LeetCode: https://leetcode.com/shivamrw
 - CodeChef: https://www.codechef.com/users/shivamrw
